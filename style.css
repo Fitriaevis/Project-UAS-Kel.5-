@@ -1,4 +1,29 @@
-.jumbotron{
-    padding-top: 4rem;
-    background-color:rgb(138, 28, 28);
+.jumbotron {
+  padding-top: 4rem;
+  background-color: rgb(138, 28, 28);
+}
+
+
+.icon-pemesanan {
+  width: 90px;
+  height: 90px;
+  border: solid #fff 2px;
+  border-radius: 50%;
+  color: #fff;
+}
+
+.hovered-card {
+  transition: 0.3s;
+}
+
+.hovered-card:hover {
+  transform: scale(1.1);
+}
+.footer{
+  font-size: 20px;
+}
+
+
+body {
+  overflow-x: hidden;
 }
