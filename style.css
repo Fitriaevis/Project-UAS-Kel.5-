@@ -3,6 +3,7 @@
   background-color: rgb(138, 28, 28);
 }
 
+
 .icon-pemesanan {
   width: 90px;
   height: 90px;
@@ -17,4 +18,12 @@
 
 .hovered-card:hover {
   transform: scale(1.1);
+}
+.footer{
+  font-size: 20px;
+}
+
+
+body {
+  overflow-x: hidden;
 }
